@@ -279,7 +279,7 @@ border-radius:10px;</string>
                 <enum>Qt::LogicalMoveStyle</enum>
                </property>
                <property name="clearButtonEnabled">
-                <bool>true</bool>
+                <bool>false</bool>
                </property>
               </widget>
              </item>

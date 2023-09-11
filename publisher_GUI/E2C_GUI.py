@@ -143,7 +143,7 @@ class Ui_MainWindow(object):
         self.broker_input.setEchoMode(QtWidgets.QLineEdit.Normal)
         self.broker_input.setReadOnly(False)
         self.broker_input.setCursorMoveStyle(QtCore.Qt.LogicalMoveStyle)
-        self.broker_input.setClearButtonEnabled(True)
+        self.broker_input.setClearButtonEnabled(False)
         self.broker_input.setObjectName("broker_input")
         self.verticalLayout_2.addWidget(self.broker_input)
         self.port_input = QtWidgets.QLineEdit(self.widget)

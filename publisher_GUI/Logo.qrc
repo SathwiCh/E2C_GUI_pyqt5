@@ -2,4 +2,8 @@
   <qresource prefix="Lnt">
     <file>Logo1.png</file>
   </qresource>
+  <qresource prefix="icons">
+    <file>cloud.jpg</file>
+    <file>computer.jpg</file>
+  </qresource>
 </RCC>
